@@ -3,7 +3,7 @@
 ## who we are?
 Hello! We are Rotem and Gilly, students at the EE faculty of the Technion Israel Institute of Technology, and this is our final project.
 
-## Introfuction
+## Introduction
 This project aims to succeed doing image-to-image translate between a veraiety of domains: Xray images, Digitally Reconstructed Radiograph (DRR), Bones Images and Lungs images.
 the DRR, bones and lung 2D images are created from a CT 3D imaging.
 In this project, we invastigate the folowing image-to-image tansfers:
