@@ -45,12 +45,11 @@ results:
 
 ## Xray -> Bones and Xray -> Lungs
 This assiment can be achived using a inbetween domain: the DRR image domain.
-  First, we usd the CycleGAN+EAD model to transfer from Xray domain to DRR domain. then, we used pix2pix to transfer from DRR domain to bones image domain or lungs image domain.
+First, we usd the CycleGAN+EAD model to transfer from Xray domain to DRR domain. then, we used pix2pix to transfer from DRR domain to bones image domain or lungs image domain.
   <image of model goes here>
 
 ## Evaluate results codes
-We used Matlab codes in order to make diff images for better understanding our results.
-  Those code can be found under the matlab folder.
+We used Matlab codes in order to make diff images for better understanding our results. Those code can be found under the matlab folder.
     
 here are some examples:
     <image goes here>
