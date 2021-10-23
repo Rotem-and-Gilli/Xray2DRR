@@ -2,7 +2,8 @@
 
 ## Who we are?
 
-Hello! We are Rotem and Gilly, students at the EE faculty of the Technion Israel Institute of Technology, and this is our final project.
+Hello! We are Rotem and Gilly, students at the EE faculty of the Technion Israel Institute of Technology.
+This is our final project in the CGM Technion Lab.
 
 ## Introduction
 
