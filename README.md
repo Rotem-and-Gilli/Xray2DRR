@@ -66,8 +66,6 @@ First, we usd the CycleGAN+EAD model to transfer from Xray domain to DRR domain.
 ~image goes here
 
 ## Evaluate results codes
-We used Matlab codes in order to make diff images for better understanding our results. These codes can be found under the matlab folder.
+We used Matlab codes in order to make diff images for better understanding of our results. These codes can be found under the `visual_evaluation_code` folder.
+In order to run the script `projectA_results_code`, you must [download](https://drive.google.com/drive/folders/1BtN4qs6c5QY8cKbbn0syeqhozMMR0fva?usp=sharing) a folder named `results`, containing images for display, and save it in the same directory as the codes. Besides the script `projectA_results_code`, the folder containes helper functions the script is using.
     
-here are some examples:
-
-~image goes here
