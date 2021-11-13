@@ -1,6 +1,6 @@
 # Image-to-image transfer between Xray and DRR
 
-## Who we are?
+## Who are we?
 
 Hello! We are Rotem and Gilly, students at the EE faculty of the Technion Israel Institute of Technology.
 This is our final project in the CGM Technion Lab.
