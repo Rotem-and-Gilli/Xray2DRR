@@ -76,4 +76,10 @@ In order to run the script `projectA_results_code`, you must [download](https://
 
 <img src="./images/6.PNG" width="500">
 
-    
+## Links to our organised folders
+
+[our model's checkpoints](https://drive.google.com/drive/folders/1PSRrbg0OcSF3qIfkiapvns4LwdJ0xSOs?usp=sharing),
+[our results](https://drive.google.com/drive/folders/1TnKYJ8oe-hJk1heF0PuzV_p5iUZiOmQC?usp=sharing),
+[our data](https://drive.google.com/drive/folders/10YdnX1XX2C--PVAQo-iqZPlj-JH_R9ie?usp=sharing)
+
+
