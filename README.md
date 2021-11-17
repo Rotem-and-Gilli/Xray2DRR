@@ -16,12 +16,12 @@ In this project, we invastigate the folowing image-to-image tansfers:
 3. DRR --> Bones image
 4. DRR --> Lungs image
 
-We choosed using the cycleGAN and pix2pix models for this assigments. This code is mainly taken theirs, with some changes to the model architure.
+We choosed using the cycleGAN and pix2pix models for this assigments. This code is mainly taken from theirs, with minor changes to the model architure.
 You can find the cycleGAN and pix2pix code in the folowing link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ## Dataset
 
-We used the dataset of the DecGAN model, which you can find documented here: https://github.com/ZerojumpLine/DecGAN
+We used the dataset of the DecGAN model. You can find the model and its dataset in here: https://github.com/ZerojumpLine/DecGAN
 
 ## Xray -> DRR
 
@@ -31,8 +31,8 @@ We tried 2 different models for this assiments:
 
 Here is EAD architure:
 
-~image goes here
-  
+![plot](./images/3.png)
+
 We added 1 channel to the original descriminator input channels: 2D gray scale edge image of the original image, created using Differnce of Gaussian filter (DoG).
   
 results:
