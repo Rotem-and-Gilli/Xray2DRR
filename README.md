@@ -31,13 +31,14 @@ We tried 2 different models for this assiments:
 
 Here is EAD architure:
 
-![plot](./images/3.png)
+<img src="./images/3.png" width="500">
 
 We added 1 channel to the original descriminator input channels: 2D gray scale edge image of the original image, created using Differnce of Gaussian filter (DoG).
   
 results:
 
-~image goes here
+<img src="./images/4.PNG" width="400">
+
 
 ## DRR -> Xray
 
@@ -45,9 +46,12 @@ We tried 2 different models for this assiments:
   1. CycleGAN model
   2. pix2pix model, on pairs of Xray and DRR images created with the CycleGAN+EAD model (Xray--> DRR direction).
   
-results:
+1.
+<img src="./images/7.png" width="300">
 
-~image goes here 
+2.
+<img src="./images/8.png" width="300">
+
 
 ## DRR -> Bones and DRR -> Lungs
 
@@ -55,7 +59,7 @@ We used pix2pix for these assiments.
   
 results:
 
-~image goes here
+<img src="./images/9.PNG" width="500">
 
 ## Xray -> Bones and Xray -> Lungs
 
@@ -63,9 +67,13 @@ This assiment can be achived using a inbetween domain: the DRR image domain.
 
 First, we usd the CycleGAN+EAD model to transfer from Xray domain to DRR domain. then, we used pix2pix to transfer from DRR domain to bones image domain or lungs image domain.
 
-~image goes here
+<img src="./images/5.png" width="500">
+
 
 ## Evaluate results codes
 We used Matlab codes in order to make diff images for better understanding of our results. These codes can be found under the `visual_evaluation_code` folder.
 In order to run the script `projectA_results_code`, you must [download](https://drive.google.com/drive/folders/1BtN4qs6c5QY8cKbbn0syeqhozMMR0fva?usp=sharing) a folder named `results`, containing images for display, and save it in the same directory as the codes. Besides the script `projectA_results_code`, the folder containes helper functions the script is using.
+
+<img src="./images/6.PNG" width="500">
+
     
