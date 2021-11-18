@@ -27,7 +27,7 @@ We used the dataset of the DecGAN model. You can find the model and its dataset 
 
 We tried 2 different models for this assiments:
 1. CycleGAN model
-2. CycleGAN+EAD model: To improve the previuse results, we changed Discrimnator B (our DRR descriminator) to Edge Aware Descriminator (EAD). If you want to activate it, add to your CycleGAN training the folowing parameter: `--discriminator_type new`.
+2. CycleGAN+EAD model: To improve the previuse results, we changed Discrimnator A (our DRR descriminator) to Edge Aware Descriminator (EAD). If you want to activate it, add to your CycleGAN training the folowing parameter: `--discriminator_type new`.
 
 Here is EAD architure:
 
