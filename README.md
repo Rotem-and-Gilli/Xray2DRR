@@ -17,7 +17,17 @@ In this project, we invastigate the folowing image-to-image tansfers:
 4. DRR --> Lungs image
 
 We choosed using the cycleGAN and pix2pix models for this assigments. This code is mainly taken from theirs, with minor changes to the model architure.
-You can find the cycleGAN and pix2pix code in the folowing link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+You can find the cycleGAN and pix2pix code, with information how to run it, in the folowing link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
+in order to activate our changes to the model, add to your CycleGAN training the folowing parameter: `--discriminator_type new`. What it does is explained under the "Xray -> DRR" section.
+
+## Links to our organised folders
+
+Our model's 
+[checkpoints](https://drive.google.com/drive/folders/1PSRrbg0OcSF3qIfkiapvns4LwdJ0xSOs?usp=sharing),
+our 
+[results](https://drive.google.com/drive/folders/1TnKYJ8oe-hJk1heF0PuzV_p5iUZiOmQC?usp=sharing),
+and our 
+[data](https://drive.google.com/drive/folders/10YdnX1XX2C--PVAQo-iqZPlj-JH_R9ie?usp=sharing)
 
 ## Dataset
 
@@ -75,15 +85,6 @@ We used Matlab codes in order to make diff images for better understanding of ou
 In order to run the script `projectA_results_code`, you must [download](https://drive.google.com/drive/folders/1BtN4qs6c5QY8cKbbn0syeqhozMMR0fva?usp=sharing) a folder named `results`, containing images for display, and save it in the same directory as the codes. Besides the script `projectA_results_code`, the folder containes helper functions the script is using.
 
 <img src="./images/6.PNG" width="500">
-
-## Links to our organised folders
-
-Our model's 
-[checkpoints](https://drive.google.com/drive/folders/1PSRrbg0OcSF3qIfkiapvns4LwdJ0xSOs?usp=sharing),
-our 
-[results](https://drive.google.com/drive/folders/1TnKYJ8oe-hJk1heF0PuzV_p5iUZiOmQC?usp=sharing),
-and our 
-[data](https://drive.google.com/drive/folders/10YdnX1XX2C--PVAQo-iqZPlj-JH_R9ie?usp=sharing)
 
 ## Our project's poster
 
