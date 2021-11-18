@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-Hello! We are Rotem and Gilli, students at the EE faculty of the Technion Israel Institute of Technology.
+Hello! We are Rotem and Gilli, students at the faculty of Electrical & Computer Engineering of the Technion Israel Institute of Technology.
 This is our final project in the CGM Technion Lab.
 
 ## Introduction
@@ -18,7 +18,7 @@ In this project, we invastigate the folowing image-to-image tansfers:
 
 We choosed using the cycleGAN and pix2pix models for this assigments. This code is mainly taken from theirs, with minor changes to the model architure.
 You can find the cycleGAN and pix2pix code, with information how to run it, in the folowing link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
-in order to activate our changes to the model, add to your CycleGAN training the folowing parameter: `--discriminator_type new`. What it does is explained under the "Xray -> DRR" section.
+In order to activate our changes to the model, add to your CycleGAN training the folowing parameter: `--discriminator_type new`. What it does is explained under the "Xray -> DRR" section.
 
 ## Links to our organised folders
 
