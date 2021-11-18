@@ -3,7 +3,7 @@
 ## Who are we?
 
 Hello! We are Rotem and Gilli, students at the faculty of Electrical & Computer Engineering of the Technion Israel Institute of Technology.
-This is our final project in the CGM Technion Lab.
+This is our final project in the CGM Technion Lab, supervised by Ori Nizan.
 
 ## Introduction
 
