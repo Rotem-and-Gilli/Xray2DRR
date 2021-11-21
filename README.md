@@ -57,7 +57,9 @@ results:
 We tried two different models for these assiments:
   1. CycleGAN model
   2. pix2pix model, on pairs of Xray and DRR images created with the CycleGAN+EAD model (Xray--> DRR direction).
-  
+
+results:
+
 1.
 <img src="./images/7.png" width="300">
 
