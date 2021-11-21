@@ -7,7 +7,7 @@ This is our final project in the CGM Technion Lab, supervised by Ori Nizan.
 
 ## Introduction
 
-This project aims to successfully transfer image-to-image between various domains: Xray images, Digitally Reconstructed Radiograph (DRR), Bones Images, and Lungs images. The DRR, bones, and lung 2D images were created from CT 3D imaging.
+This project aims to successfully transfer image-to-image between various domains: Xray images, Digitally Reconstructed Radiograph (DRR), Bones Images, and Lungs images. The 2D DRR, bones, and lung images were created from 3D CT imaging.
 
 In this project, we investigate the following image-to-image transfers:
 
